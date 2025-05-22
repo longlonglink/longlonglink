@@ -30,18 +30,7 @@
     </div>
   </div>
 
-  <!-- 访客与技术栈区域 -->
-  <div class="secondary-stats" style="background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); padding: 25px; margin-bottom: 30px;">
-    <div class="section-header" style="margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px;">
-      <h3 style="margin: 0; color: #333; font-size: 20px;">项目数据</h3>
-    </div>
-    <!-- 访客计数 -->
-    <div class="visitor-count" style="text-align: center; margin-bottom: 25px;">
-      <img src="https://img.shields.io/badge/访客计数-1000+-blue.svg" 
-           alt="Visitor Count" 
-           style="height: 30px; margin: 0 auto; display: block;">
-    </div>
-  </div>
+
 
   <!-- 额外统计卡片 -->
   <div class="extra-stats" style="background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); padding: 25px;">
@@ -56,4 +45,15 @@
   </div>
 </div>
 
-
+  <!-- 访客与技术栈区域 -->
+  <div class="secondary-stats" style="background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); padding: 25px; margin-bottom: 30px;">
+    <div class="section-header" style="margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px;">
+      <h3 style="margin: 0; color: #333; font-size: 20px;">项目数据</h3>
+    </div>
+    <!-- 访客计数 -->
+    <div class="visitor-count" style="text-align: center; margin-bottom: 25px;">
+      <img src="https://img.shields.io/badge/访客计数-1000+-blue.svg" 
+           alt="Visitor Count" 
+           style="height: 30px; margin: 0 auto; display: block;">
+    </div>
+  </div>
